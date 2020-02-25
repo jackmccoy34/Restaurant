@@ -27,5 +27,13 @@ namespace RestaurantRater.Controllers
             return BadRequest(ModelState);  
             //OK & BAdRequest are tied through inherting ApiController at the top
         }
+
+        //GET ALL
+
+        //GET BY ID
+
+        //PUT (Update)
+
+        //DELETE BY ID
     }
 }
